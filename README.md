@@ -1,6 +1,6 @@
 # Soccer-Game
 My project does the folllowing:
-1. Reads two  inputfiles.
+1. Reads two  input files.
 2. Display those files.  
 3. Tell us the name of the game and how teams gain the scores. 
 4. Asks the user to input the number of innings/sections they would like to play. 
