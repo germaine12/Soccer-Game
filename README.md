@@ -2,7 +2,7 @@
 My project does the folllowing:
 1. Reads two  input files.
 2. Display those files.  
-3. Tell us the name of the game and how teams gain the scores. 
+3. Tell us the name of the game and how teams gain scores. 
 4. Asks the user to input the number of innings/sections they would like to play. 
 5. Uses the user's answer to get size of array.
 6. Randomizes the scores for each team in each inning.
