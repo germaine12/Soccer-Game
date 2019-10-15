@@ -1,5 +1,5 @@
 # Soccer-Game
-My project does the folllowing:
+This project does the folllowing:
 1. Reads two  input files.
 2. Display those files.  
 3. Tell us the name of the game and how teams gain scores. 
